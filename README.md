@@ -1,4 +1,4 @@
-## OLá! Eu sou o Pedro de Freitas Fiel
+## OLá! Eu sou o Pedro Fiel
 
 Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que fiz.
 
