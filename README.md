@@ -2,7 +2,7 @@
 
 Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que fiz.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroFiel&theme=graywhite_icons=true) 
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
