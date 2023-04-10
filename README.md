@@ -3,8 +3,8 @@
 Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que fiz.
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=PedroFiel&show_icons=true&show_icons=true&theme=default&count_private=true" />
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFiel&show_icons=true&theme=default&count_private=true"/>
+<a href=""> <img  height = "230em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroFiel&theme=default&line_height=40&hide=css"/> </a>
+<a href=""> <img  height = "230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroFiel&theme=default&line_height=40&hide=css"/> </a>
 </div>
 
 <div style="display: inline_block"><br>
