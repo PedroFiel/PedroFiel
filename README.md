@@ -2,10 +2,6 @@
 
 Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que fiz.
 
-<div align = "left">
-<a href=""> <img  height = "230em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=PedroFiel&theme=default&line_height=40&hide=css"/> </a>
-<a href=""> <img  height = "230em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PedroFiel&theme=default&line_height=40&hide=css"/> </a>
-</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
