@@ -4,10 +4,10 @@ Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que f
 
 <div> 
 <a href="#">
-  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFiel&repo=github-readme-stats" />
+  <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFiel&repo=github-readme-stats" />
 </a>
 <a href="#">
-  <img height="250em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroFiel&repo=convoychat" />
+  <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroFiel&repo=convoychat" />
 </a>
 </div>
 
