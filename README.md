@@ -12,7 +12,7 @@ Seja muito bem-vindo ao meu perfil! Aqui você encontrará alguns projetos que f
   <img align="center" alt="Pedro-Arduino" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/743229654621749309/1265389517024530453/PedroFw.jpg?ex=67691092&is=6767bf12&hm=6b91654108d1652f72c8ae349c9975dc4a7e2d54f1f77e9b72b915af89b31cab&=&format=webp&width=670&height=670">
+  <img align="right" alt="Pedro-pic" height="150" style="border-radius:50px;" src="https://ibb.co/ZpLDKRVC">
 </div>
 
 ##
